@@ -1,0 +1,1 @@
+HTML can ban
