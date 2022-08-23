@@ -1,0 +1,115 @@
+
+.tieude {
+    margin: auto;
+    width: 50%;
+}
+
+.thanhtieude {
+    background-color: #0f30ada1;
+    border-color: #383e4c;
+    top: 0px;
+    position: fixed;
+    width: 50%;
+
+}
+
+.tieudelist {
+    text-align: center;
+    list-style: outside none none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    display: inline;
+}
+
+.linknav {
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+li a:hover {
+    background-color: blue;
+}
+
+.list-album-item {
+    vertical-align: top;
+    width: 195px;
+    min-height: 263px;
+    margin-right: 20px;
+}
+
+ul.list_video {
+    width: 960px;
+    min-width: 696px;
+    list-style: none;
+    padding-top: 0px;
+}
+
+ul.list_video li {
+    display: inline-block;
+    position: relative;
+}
+
+.box_content {
+    margin: 25px auto;
+    width: 960px;
+    padding: 0px;
+    border: 1px solid #e7e7e7;
+    top: 0px;
+}
+
+.name-album-detail {
+    color: red;
+}
+
+.title-object {
+    color: red;
+}
+
+.artist-name {
+    color: red;
+}
+
+.sapo-full-box {
+    outline-style: dashed;
+}
+
+.body-nhac {
+    margin: 25px auto;
+    width: 960px;
+    padding: 0px;
+    border: 1px solid #e7e7e7;
+}
+
+.choi nhac {
+    color: red;
+}
+
+.player-box {
+    margin: 5px auto;
+    width: 660px;
+    padding: 0px;
+    border: 1px solid #e7e7e7;
+}
+
+.player-box-top {
+    top: 0px;
+}
+.footer{
+    background: black;
+    color: red;
+    font-family: Averta-Light;
+    overflow: hidden;
+    clear: both;
+    box-sizing: border-box;
+}
+
+
