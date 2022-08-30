@@ -1,56 +1,36 @@
-
-.thanhtieude {
-  background-color: #0f30ada1;
-  border-color: #383e4c;
-  top: 0px;
-  position: fixed;
-  right: 0px;
-  left: 0px;
-  z-index: 1030;
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+html {
+  background-color: #00539F;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
 }
 
-.tieudelist {
+
+h1 {
+  font-size: 60px;
   text-align: center;
-  display: inline-block;
-    float: none;
-    padding-left: 0px;
-    list-style: outside none none;
 }
 
-ul {
-  list-style-type: none;
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+h1 {
   margin: 0;
-  padding: 0;
-  border: 1px solid #e7e7e7;
-  background-color: #f3f3f3;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
 }
-
-li {
-  display: inline;
-}
-
-.linknav {
-  padding: 8px;
-  background-color: #dddddd;
-}
-
-li a:hover {
-  background-color: blue;
-}
-
-.list-album-item  {
-      width: 195px;
-    min-height: 263px;
-    margin-right: 20px;
-
-}
-
-ul.list_video {
-  min-width: 696px;
-  list-style: none;
-  padding-top: 20px;
-  }
-ul.list_video li {
-  display:inline-block;
-  position: relative;
+img {
+  display: block;
+  margin: 0 auto;
 }
