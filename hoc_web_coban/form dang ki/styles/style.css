@@ -1,0 +1,66 @@
+html {
+ background-color: white;
+}
+ h1{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+ }
+body {
+  display: block;
+  width: 430px;
+  height: 670px;
+  margin: 10px auto;
+  background-color:#2A2AAB ;
+  padding: 0px 20px 20px 0px;
+  border: 5px solid #267C7C;
+  border-radius: 7px;
+}
+.tieude{
+  background-color:darkblue;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 90px;
+  width: 100%;
+  padding: 0 10px 0 10px;
+  border-left: 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+   
+}
+.nho_input {
+  width: 80%;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom:20px ;
+  margin-right: 25px;
+  margin-left: 40px;
+  padding: 5px 12px 6px 18px;
+  font-size: 1rem;
+  border: 1px solid var(--border-color) ;
+  border-radius: 5px;
+}
+
+.checkbox{
+  color: white;
+  font-size: 14px;
+  margin-top: 15px;
+  margin-left: 35px;
+
+}
+.button{
+  margin-top: 70px;
+  margin-left: 250px;
+}
+.btn{
+  font-size: 25px;
+  min-width: 150px;
+  height: 50px;
+  color: white;
+  background-color:green;
+  border: 0px green;
+  border-radius:8px ;
+  justify-content: center;
+  padding: 0;
+}
